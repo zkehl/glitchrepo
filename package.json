@@ -1,0 +1,24 @@
+{
+  "name": "botkit-starter-webex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"No test specified\""
+  },
+  "dependencies": {
+    "@grapecity/spread-excelio": "^14.0.8",
+    "@grapecity/spread-sheets": "^14.0.8",
+    "botbuilder-adapter-webex": "^1.0.9",
+    "botbuilder-storage-mongodb": "^1.0.8",
+    "botkit": "^4.10.0",
+    "botkit-plugin-cms": "^1.0.3",
+    "convert-excel-to-json": "^1.7.0",
+    "dotenv": "^8.2.0",
+    "jquery": "^3.6.0",
+    "read-excel-file": "^5.0.0",
+    "sheetjs": "^2.0.0",
+    "xlsx": "^0.16.9"
+  }
+}
