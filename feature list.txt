@@ -1,0 +1,9 @@
+
+1. Quick read and write of names
+3. metadata check to ensure the current .xlms file is updated. 
+4. membership and room check.
+2. /help
+5. make sure metadata on file matches current time. 
+https://stackoverflow.com/questions/49221446/search-in-json-file-with-node-js/49221641
+https://howtodoinjava.com/java/library/readingwriting-excel-files-in-java-poi-tutorial/
+https://www.codeproject.com/Tips/613782/Read-and-Write-Excel-File-Dynamically
